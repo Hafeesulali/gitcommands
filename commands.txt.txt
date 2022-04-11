@@ -1,1 +1,5 @@
-git init---->for initializing empty repository
+git init---->for initializingit add -A ---->to add all untracked files to staging area
+git status-->to list files with changes
+git commit -m "message"-->
+git config --global user.email "hafeesulali@gmail.com"--->to create user
+g empty repository
